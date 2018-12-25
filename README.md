@@ -6,4 +6,4 @@ With the debugger you can:
 * Debug step-by-step and view the instruction result immediately;
 * View memory, callstack, stack, registers;
 * Setup breakpoints to execute/read/write.
-![Alt-текст](адрес://ссылки.здесь "Заголовок изображения")
+![Main window view](MainWindow.png "Main window view")
